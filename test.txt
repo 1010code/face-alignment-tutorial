@@ -1,0 +1,576 @@
+mpiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7f9f7bc8f9d0) is not the object's thread (0x7f9f859ec040).
+Cannot move to target thread (0x7f9f7bc8f9d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7f9f7bc8f9d0) is not the object's thread (0x7f9f859ec040).
+Cannot move to target thread (0x7f9f7bc8f9d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+  ~/Desktop/face_point  python facial_68_Landmark.py                            18:01:52  
+List of all faces detected:  1
+Total number of face landmarks detected  68
+points[(149, 328), (147, 366), (147, 401), (150, 437), (159, 474), (175, 509), (200, 539), (230, 565), (271, 575), (317, 571), (362, 552), (402, 526), (433, 493), (451, 454), (458, 412), (461, 371), (463, 328), (159, 301), (170, 280), (193, 270), (220, 270), (245, 278), (301, 278), (332, 269), (365, 269), (395, 279), (417, 301), (272, 314), (270, 346), (268, 378), (265, 411), (237, 416), (251, 425), (269, 434), (290, 425), (309, 417), (189, 321), (204, 312), (223, 311), (240, 322), (222, 324), (204, 324), (322, 323), (341, 312), (361, 313), (378, 322), (360, 325), (342, 325), (213, 457), (234, 454), (255, 454), (274, 457), (293, 454), (322, 454), (354, 457), (324, 481), (295, 490), (274, 491), (254, 489), (233, 478), (224, 460), (255, 465), (274, 467), (294, 464), (345, 459), (294, 474), (275, 475), (255, 472)]
+Lanmdark is save into  output/image_0.txt
+Saving output image to output/image.jpg
+objc[22364]: Class RunLoopModeTracker is implemented in both /opt/anaconda3/lib/python3.7/site-packages/cv2/.dylibs/QtCore (0x1239a07f0) and /opt/anaconda3/lib/libQt5Core.5.9.7.dylib (0x12e1d1a80). One of the two will be used. Which one is undefined.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
+QObject::moveToThread: Current thread (0x7ffbe75a87d0) is not the object's thread (0x7ffbeee9a180).
+Cannot move to target thread (0x7ffbe75a87d0)
+
+You might be loading two sets of Qt binaries into the same process. Check that all plugins are compiled against the right Qt binaries. Export DYLD_PRINT_LIBRARIES=1 and check that only one set of binaries are being loaded.
