@@ -62,7 +62,7 @@ for k in range(0, len(allFaces)):
 #   facePoints(img, detectedLandmarks)
   print(detectedLandmarks.parts())
   for p in detectedLandmarks.parts():
-    cv2.circle(img, (p.x, p.y), 2, (0, 0, 255), -1)
+    cv2.circle(img, (p.x, p.y), 4, (0, 0, 255), -1)
 
   fileName = faceLandmarksOuput +"_"+ str(k)+ ".txt"
   print("Lanmdark is save into ", fileName)

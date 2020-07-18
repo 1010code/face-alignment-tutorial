@@ -46,6 +46,6 @@ def annotate_landmarks(im, landmarks):
 
     return im
 
-im=cv2.imread('test.jpg')
+im=cv2.imread('test1.jpg')
 
 cv2.imwrite('output.jpg', annotate_landmarks(im))
